@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TskRisks
-- 👀 I’m interested in learning code because I'm a beginner and want to expand my knowledge.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, MySql and other Visualization tools.
 
 
 <!---
